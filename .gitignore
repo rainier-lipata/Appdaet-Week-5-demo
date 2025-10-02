@@ -1,0 +1,40 @@
+# PyCharm
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/inspectionProfiles
+.idea/codeStyles
+.idea/shelf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+bin/
+include/
+lib/
+lib64/
+local/
+share/
+*.egg-info/
+.coverage
+.tox/
+dist/
+build/
+*.so
+*.mo
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Other
+*.log
+*.sqlite3
